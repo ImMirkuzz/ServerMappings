@@ -1219,5 +1219,12 @@
         "addresses": [
             "verve.rip"
         ]
+    },
+   {
+        "id": "fantacity",
+        "name": "FantaCity",
+        "addresses": [
+            "mc.fantacity.ga"
+        ]
     }
 ]
