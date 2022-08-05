@@ -1794,5 +1794,16 @@
         "primaryAddress": "elevatemc.com",
         "minecraftVersions": ["1.7", "1.8"],
         "primaryMinecraftVersion": "1.8"
+    },
+    {
+        "id": "astynomiamc",
+        "name": "AstynomiaMC",
+        "addresses": [
+            "play.astynomiamc.tk"
+        ],
+        "primaryAddress": "play.astynomiamc.tk",
+        "minecraftVersions": ["1.8", "1.19"],
+        "primaryMinecraftVersion": "1.16.5"
     }
 ]
+
