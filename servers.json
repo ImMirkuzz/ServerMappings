@@ -1219,5 +1219,14 @@
         "addresses": [
             "verve.rip"
         ]
+    },
+    {
+        "id": "astynomiamc",
+        "name": "AstynomiaMC",
+        "addresses": [
+            "play.astynomiamc.tk"
+        ]
     }
-]
+   ]
+
+
